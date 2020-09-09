@@ -2,4 +2,4 @@ print("hello")
 print("chagit")
 print("shinui")
 
-a = 2
+a = 100
