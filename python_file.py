@@ -4,3 +4,4 @@ print("shinui")
 
 a = 55
 b = 102
+v = 400
